@@ -6,6 +6,7 @@ import RecommendedVideos from './Recommendedvideos/RecommendedVideos';
 // import Sample from './SearchTerm/SearchTerm';
 // import SearchPage from './SearchPage/SearchPage';
 import SearchTerm from './SearchTerm/SearchTerm';
+import Sidebar from './Sidebar/Sidebar';
 import SideRecommed from './SideRecommed/SideRecommed';
 
 function App() {
