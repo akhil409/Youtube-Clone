@@ -1,0 +1,18 @@
+.app-page{
+    display: flex;
+}
+
+/* <BrowserRouter>
+<Header />
+    <Routes>
+          <Route path='/search'>
+            {<h1>Search Page</h1>}
+          /* </Route>
+          <Route path='/'>
+             <div className="app-page">
+                 <Sidebar />
+                 <RecommendedVideos />
+             </div>
+          </Route>
+    </Routes>
+</BrowserRouter> */
